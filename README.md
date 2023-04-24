@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a student who loves 💻 web development and 🤖 data structures and algorithms (DSA).<br><br>👨‍💻 On my GitHub profile, you'll find:<br><br>💪 DSA challenges completed using 🆕 C++<br>🤖 Implementations of common algorithms like sorting and searching<br>🌐 Web applications built using 🔥 HTML, 🎨 CSS, and 🚀 JavaScript, including projects with ⚛️ React (currently learning)<br>💻 Check out my repositories to see some of my work and feel free to connect with me to chat about anything related to DSA or web development!
+👋 Hi there! I'm a student who loves 💻 web development and 🤖 data structures and algorithms (DSA).<br><br>👨‍💻 On my GitHub profile, you'll find:<br><br>💪 DSA challenges completed using 🆕 C++<br>🤖 Implementations of common algorithms like sorting and searching<br>🌐 Web applications built using 🔥 HTML, 🎨 CSS, and 🚀 JavaScript<br>💻 Check out my repositories to see some of my work and feel free to connect with me 
 
 
 ## 🌐 Socials:
